@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="TV SMS CLUB">
+
+  <channel id="GencsmsTV.tr">
+    <display-name lang="tr">Gençsms TV</display-name>
+  </channel>
+
+  <programme start="20261111000000 +0300"
+             stop="20261112000000 +0300"
+             channel="GencsmsTV.tr">
+    <title lang="tr">TV SMS</title>
+  </programme>
+  
+  <programme start="20261112000000 +0300"
+             stop="20261113000000 +0300"
+             channel="GencsmsTV.tr">
+    <title lang="tr">TV SMS</title>
+  </programme>
+
+<programme start="20261113000000 +0300"
+             stop="20261114000000 +0300"
+             channel="GencsmsTV.tr">
+    <title lang="tr">TV SMS</title>
+  </programme>
+
+<programme start="20261114000000 +0300"
+             stop="20261115000000 +0300"
+             channel="GencsmsTV.tr">
+    <title lang="tr">TV SMS</title>
+  </programme>
+
+</tv>
